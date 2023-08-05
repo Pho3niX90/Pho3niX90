@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-[![Anurag's github stats](https://github-stats-pho3nix90.vercel.app/api?username=Pho3niX90&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-stats-pho3nix90.vercel.app/api?username=Pho3niX90&show_icons=true&theme=radical&include_all_commits=true&count_private=true&1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
