@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Pho3niX90/Pho3niX90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
